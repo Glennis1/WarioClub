@@ -203,7 +203,7 @@ footer{
         font-size: 36px;
     }
     header, nav{
-        position: relative;
+        position: sticky;
         top: 0;
     }
    
